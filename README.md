@@ -7,4 +7,7 @@ Kontakt:
 
    ▪ Mail: xHaqDEV@wp.pl
  
-   ▪ GG: 62919627</b>
+   ▪ GG: 62919627
+   
+   ▪ Skompilowany kod: http://www.mediafire.com/file/yfz4xp452gqxxb3/BlockadePlugin.jar
+   </b>
